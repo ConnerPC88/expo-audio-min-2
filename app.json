@@ -1,4 +1,11 @@
 {
-  "name": "TrackPlayerMinNew",
-  "displayName": "TrackPlayerMinNew"
+  "expo": {
+    "name": "TrackPlayerMinNew",
+    "android": {
+      "package": "com.connerpc.trackplayerminnew"
+    },
+    "ios": {
+      "bundleIdentifier": "com.connerpc.trackplayerminnew"
+    }
+  }
 }
